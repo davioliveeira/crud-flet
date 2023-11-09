@@ -1,9 +1,7 @@
-# A  Flet app
-
-An example of a minimal Flet app.
+# Learning Flet: Creating CRUD in Python + Sqlite
 
 To run the app:
 
 ```
-flet run [app_directory]
+flet run main.py
 ```
